@@ -1,0 +1,6 @@
+C:\Users\E38313\OneDrive - Banrisul S.A\Área de Trabalho\modulo 1 logica de programação\revisao1\exercicio1\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\E38313\OneDrive - Banrisul S.A\Área de Trabalho\modulo 1 logica de programação\revisao1\exercicio1\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\E38313\OneDrive - Banrisul S.A\Área de Trabalho\modulo 1 logica de programação\revisao1\exercicio1\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\E38313\OneDrive - Banrisul S.A\Área de Trabalho\modulo 1 logica de programação\revisao1\exercicio1\exercicio2\obj\Debug\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\E38313\OneDrive - Banrisul S.A\Área de Trabalho\modulo 1 logica de programação\revisao1\exercicio1\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\E38313\OneDrive - Banrisul S.A\Área de Trabalho\modulo 1 logica de programação\revisao1\exercicio1\exercicio2\obj\Debug\exercicio2.pdb
